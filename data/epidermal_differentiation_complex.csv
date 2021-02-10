@@ -1,4 +1,4 @@
-﻿family,gene_name,comment
+family,gene_name,comment
 cornified_envelope_precursor_family,IVL,
 cornified_envelope_precursor_family,LORICRIN,
 cornified_envelope_precursor_family,SPRR1A,
@@ -30,8 +30,7 @@ cornified_envelope_precursor_family,LCE3E,
 cornified_envelope_precursor_family,LCE4A,
 cornified_envelope_precursor_family,LCE5A,
 cornified_envelope_precursor_family,LCE6A,
-cornified_envelope_precursor_family,LEP7,LEP7 and C1orf68 are same genes
-cornified_envelope_precursor_family,C1orf68,LEP7 and C1orf68 are same genes
+cornified_envelope_precursor_family,C1orf68,LEP7
 sftp_family,FLG,
 sftp_family,FLG2,
 sftp_family,TCHH,
@@ -46,7 +45,6 @@ s100_family,S100A4,
 s100_family,S100A5,
 s100_family,S100A6,
 s100_family,S100A7,
-s100_family,S100A7L2,
 s100_family,S100A8,
 s100_family,S100A9,
 s100_family,S100A10,
@@ -54,5 +52,4 @@ s100_family,S100A11,
 s100_family,S100A12,
 s100_family,S100A13,
 s100_family,S100A14,
-s100_family,S100A15,
 s100_family,S100A16,
